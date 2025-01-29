@@ -7,8 +7,9 @@ function Home() {
 
     const movies = [
         {id: 1, title: "John Wick", release_data: "2020"},
-        {id: 2, title: "Terminator", release_data: "2010"},
+        {id: 2, title: "Incredibles", release_data: "2008"},
         {id: 3, title: "The Matrix", release_data: "1990"},
+        {id: 3, title: "Rio", release_data: "2012"}
    
     ];
 
